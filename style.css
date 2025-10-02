@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: #E6A4B4;
+}
+.hero{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+#date-time{
+    border: 2px solid greenyellow;
+    border-radius: 10px;
+    box-shadow: 10px 20px 20px rgb(54,52,52);
+    background-color: #625f5f75;
+    width: 300px;
+    text-align: center;
+    height: 100px;
+}
+h1{
+    margin: 20px;
+}
